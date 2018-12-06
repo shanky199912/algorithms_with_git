@@ -15,15 +15,15 @@ Happy Open Sourcing!
 - [Array Rotation By 1](algorithms/Array/array_rotation_by_1)
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 
-### Linked List
-- [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
-
 ### Graph
 
 - [Breadth First Traversal](algorithms/Graph/breadth_first_traversal)
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
+
+### Linked List
+- [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
 
 ### Maths
 
