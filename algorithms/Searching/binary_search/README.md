@@ -31,3 +31,6 @@ The list u entered is:  [3, 6, 2, 9, 1]
 The sorted list is:  [1, 2, 3, 6, 9]
 Search unsuccesfull.
 ```
+
+### Implemented in 
+-[Python](binary_search.py)
