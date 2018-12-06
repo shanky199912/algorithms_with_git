@@ -31,6 +31,10 @@ Happy Open Sourcing!
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
 
+### Searching
+
+- [Binary_Search](algorithms/Searching/binary_search/)
+
 ### Sorting
 
 - [Bubble Sort](algorithms/Sorting/Bubble_Sort)
@@ -40,10 +44,6 @@ Happy Open Sourcing!
 - [Merge Sort](algorithms/Sorting/Merge_sort)
 - [Quick Sort](algorithms/Sorting/quick_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
-
-### Searching
-
-- [Binary_Search](algorithms/Searching/binary_search/)
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
